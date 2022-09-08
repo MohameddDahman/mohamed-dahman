@@ -511,7 +511,10 @@ footer{
     }
     .form-wrapper input{
         padding: 20px 5px;
-        width: 500px
+        width: 400px
+    }
+    .form-wrapper #text-area{
+        width: 400px;
     }
 }
     @media screen and (max-width:720px) {
